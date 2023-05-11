@@ -1,0 +1,2446 @@
+RMF
+W 8
+H 8
+AUTHOR khlorghaal
+LICENSE CC-NC-AT-SA
+
+__
+space blank empty
+00000000
+       0
+       0
+       0
+       0
+       0
+       0
+       0
+█ solid fill
+xxxxxxxx
+xxxxxxxx
+xxxxxxxx
+xxxxxxxx
+xxxxxxxx
+xxxxxxxx
+xxxxxxxx
+xxxxxxxx
+■ square
+00000000
+xxxxxxx0
+xxxxxxx0
+xxxxxxx0
+xxxxxxx0
+xxxxxxx0
+xxxxxxx0
+xxxxxxx0
+▯ border
+xxxxxxxx
+x      x
+x      x
+x      x
+x      x
+x      x
+x      x
+xxxxxxxx
+□ box
+00000000
+xxxxxxx0
+x     x0
+x     x0
+x     x0
+x     x0
+x     x0
+xxxxxxx0
+□ boxsmol
+00000000
+00000000
+ xxxxx 0
+ x   x 0
+ x   x 0
+ x   x 0
+ xxxxx 0
+00000000
+▣ bbox
+00000000
+xxxxxxx0
+x     x0
+x xxx x0
+x xxx x0
+x xxx x0
+x     x0
+xxxxxxx0
+⧈ concenrect
+00000000
+xxxxxxx0
+x     x0
+x xxx x0
+x x x x0
+x xxx x0
+x     x0
+xxxxxxx0
+⧉ coplanrect
+00000000
+xxxxx  0
+x   x  0
+x xxxxx0
+x x x x0
+xxxxx x0
+  x   x0
+  xxxxx0
+vescicle
+00000000
+  xxx  0
+       0
+x     x0
+x     x0
+x     x0
+       0
+  xxx  0
+hit
+00000000
+   x   0
+   x   0
+       0
+xx   xx0
+       0
+   x   0
+   x   0
+cursor
+xx    xx
+x      x
+        
+        
+        
+        
+x      x
+xx    xx
+focus dashborder
+xx xx xx
+x      x
+        
+x      x
+x      x
+        
+x      x
+xx xx xx
+bus
+  x  x  
+        
+x x  x x
+        
+        
+x x  x x
+        
+  x  x  
+bus1
+00000000
+   x   0
+   x   0
+   x   0
+       0
+   x   0
+   x   0
+   x   0
+entry main
+00000000
+       0
+x     x0
+x     x0
+x  x  x0
+x  x  x0
+   x   0
+   x   0
+ret return final res result
+00000000
+ x   x 0
+ x   x 0
+ x   x 0
+ x   x 0
+   x   0
+ x x x 0
+xx x xx0
+measure_y0
+00000000
+       0
+       0
+       0
+       0
+       0
+       0
+xx     0
+measure_y2
+00000000
+       0
+       0
+       0
+       0
+xx     0
+ x     0
+xx     0
+measure_y4
+       0
+       0
+       0
+xx     0
+ x     0
+xx     0
+ x     0
+xx     0
+measure_y6
+       0
+xx     0
+ x     0
+xx     0
+ x     0
+xx     0
+ x     0
+xx     0
+dither
+ x x x x
+x x x x 
+ x x x x
+x x x x 
+ x x x x
+x x x x 
+ x x x x
+x x x x 
+ditherB
+        
+ x   x  
+xxx xxx 
+ x x x  
+  xxx   
+ x x x  
+xxx xxx 
+ x   x  
+ditherC
+        
+x xxx x 
+   x    
+x x x x 
+xx   xx 
+x x x x 
+   x    
+x xxx x 
+ditherD
+        
+        
+xx  xx  
+xx  xx  
+  xx    
+  xx    
+xx  xx  
+xx  xx  
+ditherE
+        
+xx   xx 
+xx   xx 
+  xxx   
+  xxx   
+  xxx   
+xx   xx 
+xx   xx 
+ditherF
+        
+xxx xxx 
+x x x x 
+xxx xxx 
+        
+xxx xxx 
+x x x x 
+xxx xxx 
+nar
+00000000
+  x x  0
+  x x  0
+xxx xxx0
+       0
+xxx xxx0
+  x x  0
+  x x  0
+ditherG
+00000000
+x x x x 
+        
+x x x x 
+        
+x x x x 
+        
+x x x x 
+spronk
+00000000
+ x x x 0
+xxxxxxx0
+ x x x 0
+xxxxxxx0
+ x x x 0
+xxxxxxx0
+ x x x 0
+! not bang exclaim exclamation
+00000000
+  xxx  0
+  x x  0
+  x x  0
+  x x  0
+  xxx  0
+       0
+  xxx  0
+!! notnot doublebang bangbang
+00000000
+xxxxxxx0
+x  x  x0
+x  x  x0
+x  x  x0
+xxxxxxx0
+       0
+xxxxxxx0
+" dquot double-quote
+00000000
+  x x  0
+  x x  0
+       0
+       0
+       0
+       0
+       0
+# number pound
+00000000
+       0
+  x x  0
+ xxxxx 0
+  x x  0
+ xxxxx 0
+  x x  0
+       0
+$ dollar
+00000000
+   x   0
+xxxxxxx0
+x  x   0
+xxxxxxx0
+   x  x0
+xxxxxxx0
+   x   0
+% percent
+00000000
+ xxx xx0
+       0
+ xxx   0
+       0
+   xxx 0
+       0
+xx xxx 0
+& and
+00000000
+xxxx  x0
+x  x  x0
+x  x  x0
+xxxxxxx0
+x      0
+x      0
+xxxxxxx0
+' quot quote
+00000000
+   x   0
+   x   0
+       0
+       0
+       0
+       0
+       0
+( parenthesis-open
+00000000
+xxxxxx 0
+x      0
+x      0
+       0
+x      0
+x      0
+xxxxxx 0
+) parenthesis-close
+00000000
+ xxxxxx0
+      x0
+      x0
+       0
+      x0
+      x0
+ xxxxxx0
++ plus
+00000000
+   x   0
+   x   0
+   x   0
+xxxxxxx0
+   x   0
+   x   0
+   x   0
+add addition
+00000000
+   x   0
+   x   0
+   x   0
+xxxxxxx0
+   x   0
+   x   0
+   x   0
+mul multiply
+00000000
+  x x  0
+  x x  0
+xxx xxx0
+       0
+xxx xxx0
+  x x  0
+  x x  0
+pow
+00000000
+ xx xx 0
+  x x  0
+xxx xxx0
+       0
+xxx xxx0
+  x x  0
+ xx xx 0
+sub subtract
+00000000
+       0
+       0
+       0
+xxxxxxx0
+       0
+       0
+       0
+div divide
+00000000
+  x x  0
+  x x  0
+       0
+xxxxxxx0
+       0
+  x x  0
+  x x  0
+log logarithm
+00000000
+ xx xx 0
+  x x  0
+  x x  0
+xxxxxxx0
+  x x  0
+  x x  0
+ xx xx 0
+mod modulus
+00000000
+  xxx  0
+  x x  0
+       0
+xxx xxx0
+       0
+  x x  0
+  xxx  0
+len length
+00000000
+  xxx  0
+       0
+   x   0
+   x   0
+   x   0
+       0
+  xxx  0
+nrm normal normalize
+00000000
+ x x x 0
+ x x x 0
+   x   0
+   x   0
+   x   0
+ x x x 0
+ x x x 0
+imaginary circular
+00000000
+   x   0
+ xxxxx 0
+ x   x 0
+xx   xx0
+ x   x 0
+ xxxxx 0
+   x   0
+fft foi fourier
+00000000
+x  x  x0
+x  x  x0
+x  x  x0
+       0
+x x x x0
+x x x x0
+x x x x0
+ifft invfoi inverse-fourier
+00000000
+x  xxxx0
+x  x  x0
+xxxx  x0
+       0
+x xxx x0
+x x x x0
+xxx xxx0
+, comma
+00000000
+       0
+       0
+       0
+       0
+       0
+   x   0
+  xx   0
+- hyphen
+00000000
+       0
+       0
+       0
+xxxxxxx0
+       0
+       0
+       0
+. period
+00000000
+       0
+       0
+       0
+       0
+       0
+   x   0
+   x   0
+/ slash
+00000000
+   xxxx0
+   x   0
+       0
+       0
+       0
+   x   0
+xxxx   0
+* aseterisk
+00000000
+  xxx  0
+   x   0
+x     x0
+xx   xx0
+x     x0
+   x   0
+  xxx  0
+null nul
+00000000
+       0
+ xxxxx 0
+ x   x 0
+ x x x 0
+ x x x 0
+ x   x 0
+ xxxxx 0
+0 zero
+00000000
+  xxx  0
+  x x  0
+  x x  0
+  x x  0
+  x x  0
+  x x  0
+  xxx  0
+1 one
+00000000
+   x   0
+   x   0
+   x   0
+   x   0
+   x   0
+   x   0
+   x   0
+2 two
+00000000
+  xxx  0
+    x  0
+    x  0
+  xxx  0
+  x    0
+  x    0
+  xxx  0
+3 three
+00000000
+  xxx  0
+    x  0
+    x  0
+  xxx  0
+    x  0
+    x  0
+  xxx  0
+4 four
+00000000
+  x x  0
+  x x  0
+  x x  0
+  xxx  0
+    x  0
+    x  0
+    x  0
+5 five
+00000000
+  xxx  0
+  x    0
+  x    0
+  xxx  0
+    x  0
+    x  0
+  xxx  0
+6 six
+00000000
+  xxx  0
+  x    0
+  x    0
+  xxx  0
+  x x  0
+  x x  0
+  xxx  0
+7 seven
+00000000
+  xxx  0
+    x  0
+    x  0
+    x  0
+    x  0
+    x  0
+    x  0
+8 eight
+00000000
+  xxx  0
+  x x  0
+  x x  0
+  xxx  0
+  x x  0
+  x x  0
+  xxx  0
+9 nine
+00000000
+  xxx  0
+  x x  0
+  x x  0
+  xxx  0
+    x  0
+    x  0
+    x  0
+: colon
+00000000
+       0
+  xxx  0
+       0
+       0
+       0
+  xxx  0
+       0
+; semicolon
+00000000
+       0
+  xxx  0
+       0
+       0
+       0
+    x  0
+  xxx  0
+< bracket-angle-open
+00000000
+   xxx 0
+       0
+       0
+xxx    0
+       0
+       0
+   xxx 0
+= equals
+00000000
+       0
+       0
+xxxxxxx0
+       0
+xxxxxxx0
+       0
+       0
+> bracket-angle-close
+00000000
+ xxx   0
+       0
+       0
+    xxx0
+       0
+       0
+ xxx   0
+? question nullable
+00000000
+xxxxxxx0
+      x0
+      x0
+xxxxxxx0
+   x   0
+   x   0
+   x   0
+@ at
+00000000
+xxxxxxx0
+x     x0
+x xxx x0
+x x x x0
+x xxxxx0
+x      0
+xxxxxxx0
+A
+00000000
+ xxxxx 0
+ x   x 0
+ x   x 0
+ xxxxx 0
+ x   x 0
+ x   x 0
+ x   x 0
+B
+00000000
+ xxx   0
+   x   0
+   x   0
+ xxxxx 0
+     x 0
+     x 0
+ xxxxx 0
+C
+00000000
+ xxxxx 0
+ x     0
+ x     0
+ x     0
+ x     0
+ x     0
+ xxxxx 0
+D
+00000000
+ xxxxx 0
+ x     0
+ x  x  0
+ x  x  0
+ x  x  0
+ x     0
+ xxxxx 0
+E
+00000000
+ xxxxx 0
+       0
+       0
+ xxxxx 0
+ x     0
+ x     0
+ xxxxx 0
+F
+00000000
+ xxxxx 0
+       0
+       0
+ xxxxx 0
+ x     0
+ x     0
+ x     0
+G
+00000000
+ xxxxx 0
+       0
+       0
+   xxx 0
+     x 0
+     x 0
+ xxxxx 0
+H
+00000000
+ x   x 0
+ x   x 0
+ x   x 0
+ xxxxx 0
+ x   x 0
+ x   x 0
+ x   x 0
+I
+00000000
+ xxxxx 0
+   x   0
+   x   0
+   x   0
+   x   0
+   x   0
+ xxxxx 0
+J
+00000000
+     x 0
+     x 0
+     x 0
+     x 0
+     x 0
+     x 0
+ xxxxx 0
+K
+00000000
+ x     0
+ x     0
+ x     0
+ xxxxx 0
+ x     0
+ x     0
+ x     0
+L
+00000000
+ x     0
+ x     0
+ x     0
+ x     0
+ x     0
+ x     0
+ xxxxx 0
+M
+00000000
+ xxxxx 0
+ x x x 0
+ x x x 0
+ x x x 0
+ x x x 0
+ x x x 0
+ x x x 0
+N
+00000000
+ xxxxx 0
+ x   x 0
+ x   x 0
+ x   x 0
+ x   x 0
+ x   x 0
+ x   x 0
+O
+00000000
+ xxxxx 0
+ x   x 0
+ x   x 0
+ x   x 0
+ x   x 0
+ x   x 0
+ xxxxx 0
+P
+00000000
+ xxxxx 0
+     x 0
+     x 0
+ xxxxx 0
+ x     0
+ x     0
+ x     0
+Q
+00000000
+ xxxxx 0
+ x   x 0
+ x   x 0
+ x xxx 0
+ x   x 0
+ x   x 0
+ xxxxx 0
+R
+00000000
+ xxxxx 0
+ x     0
+ x     0
+ x   x 0
+ x   x 0
+ x   x 0
+ x   x 0
+S
+00000000
+ xxxxx 0
+ x     0
+ x     0
+ xxxxx 0
+     x 0
+     x 0
+ xxxxx 0
+T
+00000000
+ xxxxx 0
+   x   0
+   x   0
+   x   0
+   x   0
+   x   0
+   x   0
+U
+00000000
+ x   x 0
+ x   x 0
+ x   x 0
+ x   x 0
+ x   x 0
+ x   x 0
+ xxxxx 0
+V FIE
+00000000
+       0
+ x   x 0
+ x   x 0
+ x   x 0
+ x xxx 0
+ x x   0
+ x x   0
+W
+00000000
+ x   x 0
+ x   x 0
+ x   x 0
+ x x x 0
+ x x x 0
+ x x x 0
+ xxxxx 0
+X
+00000000
+ xxxxx 0
+   x   0
+       0
+       0
+       0
+   x   0
+ xxxxx 0
+Y
+00000000
+ x   x 0
+ x   x 0
+ x   x 0
+ xxxxx 0
+   x   0
+   x   0
+   x   0
+Z
+00000000
+ xxxxx 0
+    x  0
+    x  0
+  x x  0
+  x    0
+  x    0
+ xxxxx 0
+[ bracket-square-open
+00000000
+xxxxxx 0
+x      0
+x      0
+x      0
+x      0
+x      0
+xxxxxx 0
+\ backslash
+00000000
+xxxx   0
+   x   0
+       0
+       0
+       0
+   x   0
+   xxxx 
+] bracket-square-close
+00000000
+ xxxxxx0
+      x0
+      x0
+      x0
+      x0
+      x0
+ xxxxxx0
+^ circumflex
+00000000
+   x   0
+ x x x 0
+ x   x 0
+       0
+       0
+       0
+       0
+caret
+00000000
+       0
+       0
+       0
+       0
+   x   0
+ x x x 0
+ x   x 0
+_ underscore
+00000000
+       0
+       0
+       0
+       0
+       0
+       0
+xxxxxx 0
+` grave
+00000000
+xx     0
+       0
+       0
+       0
+       0
+       0
+       0
+a eiyhe
+00000000
+       0
+       0
+ xxxxx 0
+     x 0
+ xxxxx 0
+ x   x 0
+ x   x 0
+b bee
+00000000
+       0
+       0
+ x     0
+ x     0
+ xxxxx 0
+     x 0
+ xxxxx 0
+c cee
+00000000
+       0
+       0
+ xxxxx 0
+ x     0
+ x     0
+ x     0
+ xxxxx 0
+d dee
+00000000
+       0
+       0
+     x 0
+     x 0
+ xxxxx 0
+       0
+ xxxxx 0
+e ehi
+00000000
+       0
+       0
+ xxxxx 0
+       0
+ xxxxx 0
+ x     0
+ xxxxx 0
+f eph
+00000000
+       0
+       0
+ xxxxx 0
+       0
+ xxxxx 0
+ x     0
+ x     0
+g jee
+00000000
+       0
+       0
+ xxxxx 0
+       0
+   xxx 0
+     x 0
+ xxxxx 0
+h eigtce
+00000000
+       0
+       0
+ x   x 0
+ x   x 0
+ xxxxx 0
+ x   x 0
+ x   x 0
+i aye
+00000000
+       0
+       0
+ xxxxx 0
+   x   0
+   x   0
+   x   0
+ xxxxx 0
+j dzay
+00000000
+       0
+       0
+     x 0
+     x 0
+     x 0
+     x 0
+ xxxxx 0
+k cay
+00000000
+       0
+       0
+ x     0
+ x     0
+ xxxxx 0
+ x     0
+ x     0
+l el
+00000000
+       0
+       0
+ x     0
+ x     0
+ x     0
+ x     0
+ xxxxx 0
+m em
+00000000
+       0
+       0
+ xxxxx 0
+ x x x 0
+ x x x 0
+ x x x 0
+ x x x 0
+n en
+00000000
+       0
+       0
+ xxxxx 0
+ x   x 0
+ x   x 0
+ x   x 0
+ x   x 0
+o ohe
+00000000
+       0
+       0
+ xxxxx 0
+ x   x 0
+ x   x 0
+ x   x 0
+ xxxxx 0
+p pee
+00000000
+       0
+       0
+ xxxxx 0
+     x 0
+ xxxxx 0
+ x     0
+ x     0
+q kewe
+00000000
+       0
+       0
+ xxxxx 0
+ x   x 0
+ x   x 0
+ x x x 0
+ xxxxx 0
+r ar
+00000000
+       0
+       0
+ xxxxx 0
+ x     0
+ x     0
+ x     0
+ x     0
+s es
+00000000
+       0
+       0
+ xxxxx 0
+ x     0
+ xxxxx 0
+     x 0
+ xxxxx 0
+t tea
+00000000
+       0
+       0
+ xxxxx 0
+   x   0
+   x   0
+   x   0
+   x   0
+u yoo
+00000000
+       0
+       0
+ x   x 0
+ x   x 0
+ x   x 0
+ x   x 0
+ xxxxx 0
+v fie
+00000000
+       0
+       0
+ x   x 0
+ x   x 0
+ x xxx 0
+ x x   0
+ x x   0
+w dubbaeugh
+00000000
+       0
+       0
+ x   x 0
+ x x x 0
+ x x x 0
+ x x x 0
+ xxxxx 0
+x eks
+00000000
+       0
+       0
+ xxxxx 0
+   x   0
+       0
+   x   0
+ xxxxx 0
+hesk
+00000000
+       0
+       0
+  x x  0
+  x x  0
+ xxxxx 0
+  x x  0
+  x x  0
+kren
+00000000
+       0
+       0
+ xxxxx 0
+  x x  0
+ xxxxx 0
+  x x  0
+ xxxxx 0
+y wye
+00000000
+       0
+       0
+ x   x 0
+ x   x 0
+ xxxxx 0
+   x   0
+   x   0
+z xie
+00000000
+       0
+       0
+ xxxxx 0
+    x  0
+  x x  0
+  x    0
+ xxxxx 0
+{ bracket-curl-open
+00000000
+ xxxxx 0
+ x     0
+       0
+xxx    0
+       0
+ x     0
+ xxxxx 0
+| pipe
+00000000
+   x   0
+   x   0
+   x   0
+       0
+   x   0
+   x   0
+   x   0
+} bracket-curl-close
+00000000
+ xxxxx 0
+     x 0
+       0
+    xxx0
+       0
+     x 0
+ xxxxx 0
+~ approx
+00000000
+       0
+       0
+ xxx x 0
+ x x x 0
+ x xxx 0
+       0
+       0
+☺ smile head human
+00000000
+xxxxxxx0
+x     x0
+x x x x0
+x x x x0
+x     x0
+x x x x0
+x xxx x0
+face smil
+00000000
+       0
+       0
+  x x  0
+  x x  0
+       0
+  x x  0
+  xxx  0
+angor angery
+00000000
+       0
+ xxxxx 0
+       0
+  x x  0
+       0
+  xxx  0
+  x x  0
+dorf dwarf
+00000000
+xxxxxxx0
+x     x0
+x x x x0
+x     x0
+x xxx x0
+x     x0
+xxxxxxx0
+spaceman amogus spesman spesmang
+00000000
+xxxxxx 0
+x    x 0
+x xx x 0
+x    x 0
+x    x 0
+xxxxxx 0
+x    x 0
+∞ inf infinity
+00000000
+       0
+       0
+xxxxx x0
+x     x0
+x xxxxx0
+       0
+       0
+thron
+00000000
+x     x0
+x     x0
+xxxxxxx0
+       0
+xxxxxxx0
+x     x0
+x     x0
+λ lambda
+00000000
+       0
+       0
+  x    0
+  x    0
+  xxx  0
+       0
+  xxx  0
+α alpha
+00000000
+       0
+       0
+       0
+    x  0
+  xxx  0
+  x x  0
+  xxxx 0
+β beta
+00000000
+       0
+       0
+       0
+  x    0
+  xxx  0
+    x  0
+ xxxx  0
+σ sigma gauss_distribution
+00000000
+       0
+       0
+       0
+  xxxxx0
+  x x  0
+  x x  0
+  xxx  0
+π pi
+00000000
+       0
+       0
+       0
+xxxxxx 0
+  x x  0
+  x x  0
+  x x  0
+????
+00000000
+       0
+       0
+       0
+ x x x 0
+ x x x 0
+ x x x 0
+   x   0
+???
+00000000
+       0
+       0
+  x x  0
+  x x  0
+  x x  0
+  xxx  0
+   x   0
+iota
+00000000
+       0
+       0
+       0
+   x   0
+   x   0
+   x   0
+   x   0
+η NU
+00000000
+       0
+       0
+       0
+  x    0
+  xxx  0
+  x x  0
+    x  0
+χ XI
+00000000
+      x0
+xxxxxxx0
+   x   0
+       0
+   x   0
+x  x   0
+xxxxxx 0
+Λ LAMBDA
+00000000
+ xx    0
+  x    0
+  x x  0
+  x x  0
+  x x  0
+  x x  0
+xxx xxx0
+Α ALPHA first
+00000000
+ xxxxx 0
+ x  x  0
+ xxxx  0
+ x  x  0
+ x  x  0
+ x  x  0
+ x  xx 0
+Β BETA
+00000000
+ xxx   0
+   x   0
+   x   0
+   xxx 0
+     x 0
+     x 0
+ xxxxx 0
+Σ SIGMA sum
+00000000
+xxxxxxx0
+       0
+       0
+xxx    0
+       0
+       0
+xxxxxxx0
+Π PI prod product
+00000000
+xxxxxxx0
+ x    x0
+ x    x0
+ x    x0
+ x    x0
+ x    x0
+ x    x0
+Ω OMEGA final
+00000000
+ xxxxx 0
+ x   x 0
+ x   x 0
+ x   x 0
+ x   x 0
+ x   x 0
+xx   xx0
+Γ GAMMA
+00000000
+xxxxxxx0
+x     x0
+x      0
+x      0
+x      0
+x      0
+x      0
+Δ delta
+00000000
+       0
+       0
+  x x  0
+       0
+       0
+ x   x 0
+ xxxxx 0
+∇ nabla grad gradient
+00000000
+ xxxxx 0
+ x   x 0
+       0
+       0
+       0
+  x x  0
+  xxx  0
+dvrg divergence
+00000000
+  x x  0
+  x x  0
+  xxx  0
+       0
+  xxx  0
+  x x  0
+  x x  0
+curl vorticity
+00000000
+  xxx  0
+    x  0
+xx    x0
+x     x0
+x    xx0
+  x    0
+  xxx  0
+lapl laplace laplacian div-grad divergence-of-gradient
+00000000
+ x   x 0
+ xxxxx 0
+ x   x 0
+       0
+  x x  0
+  x x  0
+  xxx  0
+flux
+00000000
+   x   0
+   x   0
+   x   0
+   x   0
+xxxxxxx0
+       0
+xxxxxxx0
+irradiance
+00000000
+       0
+ xx xx 0
+ x   x 0
+   x   0
+ x   x 0
+ xx xx 0
+       0
+luminance
+00000000
+       0
+  x x  0
+ x   x 0
+   x   0
+ x   x 0
+  x x  0
+       0
+apparent_magnitude
+00000000
+       0
+  x    0
+     x 0
+   x   0
+ x     0
+    x  0
+       0
+shoom
+00000000
+       0
+  xxx  0
+x     x0
+x     x0
+x     x0
+x     x0
+xxxxxxx0
+thoon
+00000000
+       0
+x xxx x0
+x x x x0
+x x x x0
+x     x0
+x     x0
+xxxxxxx0
+krek
+00000000
+x xxx x0
+x     x0
+x     x0
+x  x  x0
+x  x  x0
+   x   0
+   x   0
+fee
+00000000
+       0
+       0
+       0
+   xxx 0
+       0
+     x 0
+   xxx 0
+τ tau torque
+00000000
+       0
+       0
+       0
+  xxxx 0
+   x   0
+   x   0
+   xx  0
+omicron
+00000000
+       0
+       0
+       0
+  xxxx 0
+  x  x 0
+  x  x 0
+  xxxx 0
+ρ rho pressure
+00000000
+       0
+       0
+       0
+  xxx  0
+  x x  0
+  xxx  0
+  x    0
+μ mu
+00000000
+       0
+       0
+       0
+  x x  0
+  x x  0
+  xxxx 0
+  x    0
+φ psi
+00000000
+       0
+       0
+       0
+ x xxx 0
+ x x x 0
+ xxxxx 0
+   x   0
+ω omega angular_velocity
+00000000
+       0
+       0
+       0
+ xx xx 0
+ x   x 0
+ x x x 0
+ xxxxx 0
+safeguard
+00000000
+   x   0
+   x   0
+   x   0
+   x   0
+xx x xx0
+   x   0
+   x   0
+administrator
+00000000
+   x   0
+   x   0
+ x x x 0
+ x x x 0
+xx x xx0
+ x x x 0
+   x   0
+array
+00000000
+xx x xx0
+x  x  x0
+xx x xx0
+       0
+       0
+       0
+       0
+vector
+00000000
+xxxxxxx0
+x x   x0
+xxxxxxx0
+       0
+       0
+       0
+       0
+matrix
+00000000
+xxxxxxx0
+x x   x0
+xxxxxxx0
+x x    0
+x x    0
+x x    0
+xxx    0
+tensor
+00000000
+xxxxxxx0
+x x   x0
+xxxxxxx0
+x x   x0
+x x xxx0
+x x x  0
+xxxxx  0
+thok
+00000000
+  x    0
+xxx x  0
+    x  0
+xxx x  0
+    x  0
+xxx x  0
+  x    0
+shonk
+00000000
+  x x  0
+xxx xxx0
+    x  0
+xxx x  0
+    x  0
+xxx xxx0
+  x x  0
+plith
+00000000
+  x x  0
+ xx xx 0
+  x x  0
+  x x  0
+xxx xxx0
+  x x  0
+xxx xxx0
+thark
+00000000
+  xxx  0
+  x x  0
+ xx xx 0
+  x x  0
+  x x  0
+       0
+       0
+rolk
+00000000
+       0
+       0
+xxx xxx0
+  x x  0
+x x x x0
+x x x x0
+x x x x0
+gerv
+00000000
+xxx xxx0
+  x x  0
+xxx xxx0
+x x x x0
+x x x x0
+x x x x0
+x xxx x0
+wiv
+00000000
+       0
+x     x0
+x     x0
+x     x0
+xxx xxx0
+  x x  0
+xxxxxxx0
+kraz
+00000000
+xxxxxxx0
+x x x x0
+x     x0
+x x x x0
+x x x x0
+  x x  0
+xxx xxx0
+noig
+00000000
+  xxx  0
+  x    0
+x x x x0
+x x x x0
+x x x x0
+    x  0
+  xxx  0
+voight
+00000000
+ xxxxxx0
+ x    x0
+ xxx   0
+ x     0
+xxxxxxx0
+x     x0
+x     x0
+frosk
+x x x x0
+x x x x0
+  x x  0
+x     x0
+x     x0
+  x x  0
+x x x x0
+x x x x0
+sheob
+x x x x0
+xxx xxx0
+  x x  0
+x   xxx0
+xxx   x0
+  x x  0
+xxx xxx0
+x x x x0
+blonk
+  xx x  
+        
+x x xx x
+  x    x
+x    x  
+x xx x x
+        
+  x xx  
+grok learn
+00000000
+       0
+       0
+  xxx  0
+   x   0
+   x   0
+ x x x 0
+xx x xx0
+grok-heavy erudite
+00000000
+xxx xxx0
+x     x0
+x xxx x0
+x  x  x0
+   x   0
+ x x x 0
+xx x xx0
+arcane hyper-grok
+00000000
+ xx xx 0
+x     x0
+x xxx x0
+x  x  x0
+       0
+x  x  x0
+xx x xx0
+gronk operator_for_operators_which_dont_exist
+00000000
+xxx xxx0
+x     x0
+xxx xxx0
+       0
+x x x x0
+x x x x0
+xxx xxx0
+grength
+00000000
+xxx xxx0
+x     x0
+xx x xx0
+   x   0
+xx x xx0
+x     x0
+xxx xxx0
+sol gold aurum
+00000000
+  xxx  0
+       0
+x xxx x0
+x x x x0
+x xxx x0
+       0
+  xxx  0
+jupiter jove iovis tin stannum
+00000000
+xxx    0
+  x    0
+  x    0
+  x  x 0
+  x  x 0
+ xxxxxx0
+     x 0
+saturn saturnus
+00000000
+ x     0
+xxx    0
+ x    x0
+ xxxxxx0
+ x    x0
+      x0
+     xx0
+mars iron ferrum
+00000000
+    xxx0
+      x0
+xxxxx x0
+x   x  0
+x   x  0
+x   x  0
+xxxxx  0
+venus copper cuprum
+00000000
+xxxxx  0
+x   x  0
+x   x  0
+xxxxx  0
+  x    0
+ xxx   0
+  x    0
+mercury mercurius hydrargyrum
+00000000
+x   x  0
+xxxxx  0
+x   x  0
+xxxxx  0
+  x    0
+ xxx   0
+  x    0
+silver argentum
+00000000
+xxxxxx 0
+x    x 0
+xxx  x 0
+  x  x 0
+xxx  x 0
+x    x 0
+xxxxxx 0
+phosphorous phosphor
+00000000
+       0
+  xxx  0
+   x   0
+ xxxxx 0
+ x   x 0
+ x   x 0
+xxxxxxx0
+platinum
+00000000
+       0
+xx xxxx0
+ x x  x0
+ xxx  x0
+ x x  x0
+xx xxxx0
+       0
+antimony stibium
+00000000
+       0
+  xxx  0
+   x   0
+ xxxxx 0
+ x   x 0
+ x   x 0
+ xxxxx 0
+sulphur brimstone
+00000000
+ xxxxx 0
+   x   0
+xxxxxxx0
+   x   0
+xxxxxxx0
+x x x x0
+xxx xxx0
+potassium kalium
+00000000
+       0
+       0
+       0
+       0
+       0
+       0
+       0
+oxygen
+00000000
+       0
+xxx xxx0
+x x x x0
+xxx xxx0
+       0
+       0
+       0
+yhwh yaweh tetragrammaton
+00000000
+xxx  xx0
+  x   x0
+x x    0
+       0
+xxx xxx0
+  x   x0
+x x   x0
+א alef aleph
+00000000
+xxxx xx0
+   x x 0
+   x x 0
+ x x x 0
+ x x   0
+ x x   0
+xx xxxx0
+ב bet  
+00000000
+xxxxx  0
+     x 0
+     x 0
+     x 0
+     x 0
+     x 0
+xxxxxxx0
+ג gimel
+00000000
+ xxxx  0
+     x 0
+     x 0
+     x 0
+xxxxxx 0
+x    x 0
+x    xx0
+ד dalet
+00000000
+xxxxxxx0
+     x 0
+     x 0
+     x 0
+     x 0
+     x 0
+     x 0
+ה he
+00000000
+       0
+       0
+       0
+ xxxx  0
+    x  0
+ x  x  0
+ x  x  0
+ו waw vav
+00000000
+       0
+       0
+       0
+  xx   0
+   x   0
+   x   0
+   x   0
+ז zayin
+00000000
+       0
+       0
+  xxx  0
+   x   0
+   x   0
+   x   0
+   x   0
+ח chet
+00000000
+       0
+xxxxxx 0
+ x    x0
+x     x0
+x     x0
+x     x0
+x     x0
+ט tet
+00000000
+       0
+xx   xx0
+ x  x x0
+ x    x0
+ x    x0
+ x    x0
+  xxxx 0
+י yod
+00000000
+       0
+  xx   0
+   x   0
+   x   0
+       0
+       0
+       0
+כ kaf
+00000000
+       0
+       0
+       0
+ xxx   0
+    x  0
+    x  0
+ xxxx  0
+ך Kaf
+00000000
+xxxxx  0
+     x 0
+      x0
+      x0
+      x0
+      x0
+      x0
+ל lamed
+00000000
+x      0
+xxxxx  0
+    x  0
+    x  0
+   x   0
+  x    0
+ x     0
+מ Mem
+00000000
+00000000
+xx xxx 0
+ xx   x0
+ x    x0
+ x    x0
+ x    x0
+ x xxxx0
+ם mem
+00000000
+00000000
+xxxxx 00
+ x   x00
+x    x00
+x    x00
+x    x00
+xxxxxx00
+נ Nun
+00000000
+   xx  0
+     x 0
+     x 0
+     x 0
+     x 0
+     x 0
+  xxxx 0
+ן nun
+00000000
+   xx  0
+    x  0
+    x  0
+    x  0
+    x  0
+    x  0
+    x  0
+ס Samech
+00000000
+xxxxxx 0
+  x   x0
+ x    x0
+ x    x0
+ x    x0
+ x    x0
+  xxxx 0
+ע Ayin
+00000000
+xx   xx0
+ x    x0
+  x  x 0
+  x  x 0
+  x  x 0
+  x  x 0
+xxxxx  0
+פ pe
+00000000
+       0
+ xxxx  0
+  x  x 0
+ x   x 0
+ xxx x 0
+     x 0
+ xxxxx 0
+ף Pe
+00000000
+xxxxxx 0
+ x    x0
+x     x0
+xxx   x0
+      x0
+      x0
+      x0
+צ tsadi
+00000000
+       0
+       0
+x  xx  0
+ x  x  0
+  xx   0
+    x  0
+xxxxx  0
+ץ Tsadi
+00000000
+xx   xx0
+  x   x0
+    xx 0
+   x   0
+   x   0
+   x   0
+   x   0
+ק Qof
+00000000
+ xxx x 0
+     x 0
+ x   x 0
+ x   x 0
+ x  x  0
+ x x   0
+ x     0
+ש Shin
+00000000
+xx xx x0
+x   x x0
+x   x x0
+x   x x0
+x   x x0
+x   x x0
+xxxxxxx0
+ת Tav
+00000000
+       0
+       0
+xxxxx  0
+  x  x 0
+  x  x 0
+  x  x 0
+xxx  x 0
+ר Resh
+00000000
+       0
+       0
+xxxx   0
+    x  0
+     x 0
+     x 0
+     x 0
+madurai
+00000000
+       0
+       0
+xx   x 0
+ x   x 0
+ x xxx 0
+ x x   0
+ xxx   0
+vazarin
+00000000
+       0
+       0
+  x  x 0
+     x 0
+    xx 0
+     x 0
+     x 0
+naramon
+00000000
+       0
+       0
+       0
+     x 0
+ xxxxx 0
+ x     0
+       0
+zenurik
+00000000
+       0
+       0
+ xxx   0
+ x     0
+   xxx 0
+   x   0
+       0
+unairu
+00000000
+       0
+       0
+  xx   0
+  x    0
+ xxxxx 0
+ x     0
+ x     0
+ゴ menacing
+00000000
+     xx0
+xxxxxx 0
+     x 0
+     x 0
+     x 0
+ xxxxx 0
+     x 0
+rad_gamma gamma_rad
+00000000
+       0
+       0
+       0
+       0
+       0
+       0
+       0
+ultraviolet hyperviolet
+00000000
+       0
+       0
+       0
+       0
+       0
+       0
+       0
+light visible light_visible visible_light
+00000000
+       0
+       0
+       0
+       0
+       0
+       0
+       0
+infrared hypored rad_heat heat_rad
+00000000
+       0
+       0
+       0
+       0
+       0
+       0
+       0
+incandescence blackbody
+00000000
+       0
+       0
+       0
+       0
+       0
+       0
+       0
+microwave
+00000000
+       0
+       0
+       0
+       0
+       0
+       0
+       0
+radio
+00000000
+       0
+       0
+       0
+       0
+       0
+       0
+       0
+acoustic
+00000000
+     xx0
+  xx  x0
+x  x  x0
+x  x  x0
+x  x  x0
+  xx  x0
+     xx0
+oscillator carrier_wave
+00000000
+xxx xxx0
+x x x x0
+xxxxxxx0
+  x x  0
+xxxxxxx0
+x x x x0
+xxx xxx0
+neutron
+00000000
+       0
+       0
+       0
+       0
+       0
+       0
+       0
+proton
+00000000
+       0
+       0
+       0
+       0
+       0
+       0
+       0
+electron rad-beta
+00000000
+       0
+       0
+       0
+       0
+       0
+       0
+       0
+rad-alpha
+00000000
+       0
+       0
+       0
+       0
+       0
+       0
+       0
+bremsstrahlung
+00000000
+       0
+       0
+       0
+       0
+       0
+       0
+       0
+cherenkov
+00000000
+       0
+       0
+       0
+       0
+       0
+       0
+       0
+antimatter
+00000000
+       0
+       0
+       0
+       0
+       0
+       0
+       0
